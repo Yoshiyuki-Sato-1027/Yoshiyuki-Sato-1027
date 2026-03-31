@@ -3,3 +3,5 @@
 
 ## 経験あり
 ![](https://skillicons.dev/icons?i=python,vuejs,googlecloud,firebase)
+
+- [ ] コンテキスト周り整えたリポジトリ作る
